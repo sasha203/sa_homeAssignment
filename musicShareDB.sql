@@ -1,0 +1,114 @@
+CREATE DATABASE musicShareDB;
+USE musicShareDB;
+
+-- Table Creation
+CREATE TABLE Genres (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Title VARCHAR(200) NOT NULL UNIQUE
+)
+
+CREATE TABLE Users (
+	Id UNIQUEIDENTIFIER PRIMARY KEY NOT NULL,
+	Username VARCHAR(100) NOT NULL UNIQUE,
+	[Password] VARCHAR(200) NOT NULL,
+	Email VARCHAR(100) NOT NULL UNIQUE,
+	Country VARCHAR(50) NOT NULL,
+	NoOfAttemps INT NOT NULL,
+	Blocked BIT NOT NULL,
+	PublicKey TEXT NOT NULL,
+	PrivateKey TEXT NOT NULL
+)
+
+
+CREATE TABLE Tracks( --Many to many table
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Title VARCHAR(200) NOT NULL UNIQUE,
+	TrackUrl VARCHAR(300) NOT NULL UNIQUE,
+	GenreId INT NOT NULL,
+	userId UNIQUEIDENTIFIER NOT NULL, 
+	digitalSignature TEXT NULL,
+	CONSTRAINT FK_TRACK_GENRE_ID FOREIGN KEY(GenreId) REFERENCES Genres(Id),
+	CONSTRAINT FK_TRACK_USER_ID FOREIGN KEY(UserId) REFERENCES Users(Id)
+)
+
+
+CREATE TABLE Roles(
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	[Role] VARCHAR(50) NOT NULL UNIQUE
+)
+
+CREATE TABLE Permissons(
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	UserId UNIQUEIDENTIFIER NOT NULL,
+	TrackId INT NOT NULL,
+	CONSTRAINT FK_PERM_USER_ID FOREIGN KEY(UserId) REFERENCES Users(id),
+	CONSTRAINT FK_PERM_TRACK_ID FOREIGN KEY(TrackId) REFERENCES Tracks(id)
+)
+
+CREATE TABLE UserRoles ( -- Many to many table & composite key
+	UserId UNIQUEIDENTIFIER NOT NULL,
+	RoleId INT NOT NULL,
+	PRIMARY KEY(UserId, RoleId),
+	CONSTRAINT FK_UR_UserId FOREIGN KEY(UserId) REFERENCES Users(Id),
+	CONSTRAINT FK_UR_RoleId FOREIGN KEY(RoleId) REFERENCES Roles(Id)
+)
+
+CREATE TABLE Comments (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	UserId UNIQUEIDENTIFIER NOT NULL,
+	TrackId INT NOT NULL,
+	Comment VARCHAR(300),
+	CONSTRAINT FK_COMMENT_UserId FOREIGN KEY(UserId) REFERENCES Users(Id),
+	CONSTRAINT FK_COMMENT_TrackId FOREIGN KEY(TrackId) REFERENCES Tracks(Id)
+)
+
+-- Select Statements
+SELECT * FROM Users
+SELECT * FROM UserRoles
+SELECT * FROM Roles 
+SELECT * FROM Genres ORDER BY Id;
+SELECT * FROM Tracks
+
+
+delete from tracks
+
+
+SELECT users.id, users.Username, Users.[Password], roles.[Role], users.Email, users.Country, users.NoOfAttemps, users.Blocked FROM Users 
+INNER JOIN UserRoles ON users.Id = UserRoles.UserId  
+INNER JOIN Roles ON UserRoles.RoleId = roles.Id
+
+SELECT Tracks.Title, Genres.Title AS 'Genre', users.username  FROM Users
+INNER JOIN Tracks ON Users.Id = Tracks.userId
+INNER JOIN Genres ON Tracks.genreId = Genres.Id
+
+
+
+-- Data Input
+
+--Genres
+INSERT INTO Genres VALUES ('Jazz');
+INSERT INTO Genres VALUES ('Rock');
+INSERT INTO Genres VALUES ('Blues');
+INSERT INTO Genres VALUES ('Raggae');
+INSERT INTO Genres VALUES ('Rap');
+INSERT INTO Genres VALUES ('Country');
+INSERT INTO Genres VALUES ('Folk');
+INSERT INTO Genres VALUES ('Pop');
+
+--Roles
+INSERT INTO Roles([Role]) VALUES('Admin');
+INSERT INTO Roles([Role]) VALUES('User');
+
+
+--Users
+-- INSERT INTO Users VALUES ('FBA31A15-91CC-4133-852C-ISJC118741D2', 'B@z.com', '+ndFo3XsV6Ffa3NazJT8T8F6Fe4A0ku+BO4uGVcs/rgGNU+OROi4MPyDOi0JVZ/sEnD/FdAlV5AGTPI1Y4fJjw==','admin@gmail.com', 'Malta', 0, 0);
+-- INSERT INTO Users VALUES ('3e8ae8c5-9099-4a9b-af09-57f206dc8779', 'joe', '+ndFo3XsV6Ffa3NazJT8T8F6Fe4A0ku+BO4uGVcs/rgGNU+OROi4MPyDOi0JVZ/sEnD/FdAlV5AGTPI1Y4fJjw==','user@gmail.com', 'Italy', 0, 0);
+
+
+
+--UserRoles
+--INSERT INTO UserRoles VALUES('FBA31A15-91CC-4133-852C-8E0C118741D2', 1); --Admin
+--INSERT INTO UserRoles VALUES('3e8ae8c5-9099-4a9b-af09-57f206dc8779', 2); --User
+
+
+

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="musicShareDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Comment">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="TrackId" Type="Int32" Nullable="false" />
+    <Property Name="Comment1" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Track" Relationship="Self.FK_COMMENT_TrackId" FromRole="Comments" ToRole="Tracks" />
+    <NavigationProperty Name="User" Relationship="Self.FK_COMMENT_UserId" FromRole="Comments" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Genre">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Tracks" Relationship="Self.FK_TRACK_GENRE_ID" FromRole="Genres" ToRole="Tracks" />
+  </EntityType>
+  <EntityType Name="Permisson">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="TrackId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Track" Relationship="Self.FK_PERM_TRACK_ID" FromRole="Permissons" ToRole="Tracks" />
+    <NavigationProperty Name="User" Relationship="Self.FK_PERM_USER_ID" FromRole="Permissons" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Role1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.UserRoles" FromRole="Roles" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Track">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TrackUrl" Type="String" MaxLength="300" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="GenreId" Type="Int32" Nullable="false" />
+    <Property Name="userId" Type="Guid" Nullable="false" />
+    <Property Name="digitalSignature" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Comments" Relationship="Self.FK_COMMENT_TrackId" FromRole="Tracks" ToRole="Comments" />
+    <NavigationProperty Name="Genre" Relationship="Self.FK_TRACK_GENRE_ID" FromRole="Tracks" ToRole="Genres" />
+    <NavigationProperty Name="Permissons" Relationship="Self.FK_PERM_TRACK_ID" FromRole="Tracks" ToRole="Permissons" />
+    <NavigationProperty Name="User" Relationship="Self.FK_TRACK_USER_ID" FromRole="Tracks" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NoOfAttemps" Type="Int32" Nullable="false" />
+    <Property Name="Blocked" Type="Boolean" Nullable="false" />
+    <Property Name="PublicKey" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PrivateKey" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Comments" Relationship="Self.FK_COMMENT_UserId" FromRole="Users" ToRole="Comments" />
+    <NavigationProperty Name="Permissons" Relationship="Self.FK_PERM_USER_ID" FromRole="Users" ToRole="Permissons" />
+    <NavigationProperty Name="Tracks" Relationship="Self.FK_TRACK_USER_ID" FromRole="Users" ToRole="Tracks" />
+    <NavigationProperty Name="Roles" Relationship="Self.UserRoles" FromRole="Users" ToRole="Roles" />
+  </EntityType>
+  <Association Name="FK_COMMENT_TrackId">
+    <End Role="Tracks" Type="Self.Track" Multiplicity="1" />
+    <End Role="Comments" Type="Self.Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tracks">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Comments">
+        <PropertyRef Name="TrackId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_COMMENT_UserId">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Comments" Type="Self.Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Comments">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TRACK_GENRE_ID">
+    <End Role="Genres" Type="Self.Genre" Multiplicity="1" />
+    <End Role="Tracks" Type="Self.Track" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genres">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tracks">
+        <PropertyRef Name="GenreId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PERM_TRACK_ID">
+    <End Role="Tracks" Type="Self.Track" Multiplicity="1" />
+    <End Role="Permissons" Type="Self.Permisson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tracks">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Permissons">
+        <PropertyRef Name="TrackId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PERM_USER_ID">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Permissons" Type="Self.Permisson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Permissons">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TRACK_USER_ID">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Tracks" Type="Self.Track" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tracks">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UserRoles">
+    <End Role="Roles" Type="Self.Role" Multiplicity="*" />
+    <End Role="Users" Type="Self.User" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Comments" EntityType="Self.Comment" />
+    <EntitySet Name="Genres" EntityType="Self.Genre" />
+    <EntitySet Name="Permissons" EntityType="Self.Permisson" />
+    <EntitySet Name="Roles" EntityType="Self.Role" />
+    <EntitySet Name="Tracks" EntityType="Self.Track" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_COMMENT_TrackId" Association="Self.FK_COMMENT_TrackId">
+      <End Role="Tracks" EntitySet="Tracks" />
+      <End Role="Comments" EntitySet="Comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_COMMENT_UserId" Association="Self.FK_COMMENT_UserId">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Comments" EntitySet="Comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TRACK_GENRE_ID" Association="Self.FK_TRACK_GENRE_ID">
+      <End Role="Genres" EntitySet="Genres" />
+      <End Role="Tracks" EntitySet="Tracks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PERM_TRACK_ID" Association="Self.FK_PERM_TRACK_ID">
+      <End Role="Tracks" EntitySet="Tracks" />
+      <End Role="Permissons" EntitySet="Permissons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PERM_USER_ID" Association="Self.FK_PERM_USER_ID">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Permissons" EntitySet="Permissons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TRACK_USER_ID" Association="Self.FK_TRACK_USER_ID">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Tracks" EntitySet="Tracks" />
+    </AssociationSet>
+    <AssociationSet Name="UserRoles" Association="Self.UserRoles">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

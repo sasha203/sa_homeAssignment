@@ -1,0 +1,6 @@
+﻿@if (Context.User.Identity.IsAuthenticated == true)
+{
+    var user = new BusinessLogic.UsersBL().GetUser(Context.User.Identity.Name);
+
+    <a class="nav-link" href="\Accounts\Signout">Sign Out</a>
+}

@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - MusicShareApp</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/myMainStyle.css" rel="stylesheet" type="text/css" />
+    <script src='https://www.google.com/recaptcha/api.js'></script> <!--Required for Captcha-->
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
+ 
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">@Html.ActionLink("Home", "Index", "Tracks",null, new{ @class="nav-link"})</li>
+                <li class="nav-item">@Html.ActionLink("About", "Index", "About",null, new { @class = "nav-link" })</li>
+                <li class="nav-item">@Html.Partial("SignOut")</li>
+            </ul>
+        </div>
+    </nav>
+
+
+
+    <!--Error/Success messages.-->
+    <div style="margin-top: 10px">
+        <!--Will show message if success-->
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-success" role="alert">
+                @TempData["message"]
+            </div>
+        }
+
+        <!--Will show message if and error is raised-->
+        @if (TempData["errormessage"] != null)
+        {
+            <div class="alert alert-danger" role="alert">
+                @TempData["errormessage"]
+            </div>
+        }
+    </div>
+
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - MusicShare</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

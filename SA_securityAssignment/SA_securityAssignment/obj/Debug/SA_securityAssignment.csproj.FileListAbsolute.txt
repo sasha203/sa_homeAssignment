@@ -1,0 +1,758 @@
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\ApplicationInsights.config
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll.config
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe.config
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.rsp
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe.config
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.rsp
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.AppContext.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Console.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Pipes.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.AccessControl.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Claims.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.ValueTuple.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe.config
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.rsp
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\WebGrease.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csprojAssemblyReference.cache
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CoreCompileInputs.cache
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CopyComplete
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll.config
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Common.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll.config
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\Securing applications Home Assignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\ApplicationInsights.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.rsp
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.rsp
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.AppContext.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Console.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.ValueTuple.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.rsp
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\WebGrease.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll.config
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csprojAssemblyReference.cache
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CoreCompileInputs.cache
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CopyComplete
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.pdb
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\ApplicationInsights.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.pdb
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.rsp
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.rsp
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.AppContext.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Collections.Immutable.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Console.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Pipes.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Reflection.Metadata.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.AccessControl.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Claims.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Principal.Windows.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.ValueTuple.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.rsp
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Agent.Intercept.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.Web.Infrastructure.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\WebGrease.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.pdb
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.pdb
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.pdb
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.pdb
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll.config
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csprojAssemblyReference.cache
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CoreCompileInputs.cache
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CopyComplete
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.dll
+I:\SecApp assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.pdb
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Globalization.Calendars.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Http.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Sockets.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Back ups\school bk ups\lvl 6 - Year2\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\ApplicationInsights.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.pdb
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.rsp
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.rsp
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.AppContext.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Console.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Http.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Sockets.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.ValueTuple.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.rsp
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\WebGrease.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.pdb
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.pdb
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.xml
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.pdb
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.pdb
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll.config
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csprojAssemblyReference.cache
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CoreCompileInputs.cache
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CopyComplete
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.dll
+D:\Sec assignment\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.pdb
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\ApplicationInsights.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.pdb
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.rsp
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.rsp
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.AppContext.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Collections.Immutable.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Console.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Globalization.Calendars.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Http.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Sockets.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.ValueTuple.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.rsp
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\WebGrease.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.pdb
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.pdb
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.xml
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.pdb
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.pdb
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll.config
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csprojAssemblyReference.cache
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CoreCompileInputs.cache
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CopyComplete
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.dll
+D:\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.pdb
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\ApplicationInsights.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.pdb
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.rsp
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.rsp
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.AppContext.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Console.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Http.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.ValueTuple.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.rsp
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\WebGrease.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.pdb
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.pdb
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.xml
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.pdb
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.pdb
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll.config
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CopyComplete
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.dll
+C:\Users\sasha\Desktop\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.pdb
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\ApplicationInsights.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\SA_securityAssignment.pdb
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.exe.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csc.rsp
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.exe.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\csi.rsp
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.AppContext.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Console.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Globalization.Calendars.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Http.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Net.Sockets.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.ValueTuple.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.exe.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\vbc.rsp
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\WebGrease.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.pdb
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\BusinessLogic.dll.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.pdb
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Common.dll.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\EntityFramework.SqlServer.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.Web.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.ApplicationInsights.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Newtonsoft.Json.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Helpers.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Mvc.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Razor.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.WebPages.Razor.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\System.Web.Optimization.xml
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\Antlr3.Runtime.pdb
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.pdb
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\bin\DataAccess.dll.config
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csprojAssemblyReference.cache
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CoreCompileInputs.cache
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.csproj.CopyComplete
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.dll
+D:\Back ups\school bk ups\securingapplications-homeassignment\SA_securityAssignment\SA_securityAssignment\obj\Debug\SA_securityAssignment.pdb

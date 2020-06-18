@@ -1,0 +1,6 @@
+﻿@if (Context.User.Identity.IsAuthenticated == true)
+{
+    var user = new BusinessLogic.UsersBL().GetUser(Context.User.Identity.Name);
+
+    <h4>Welcome, @user.Username</h4>
+}

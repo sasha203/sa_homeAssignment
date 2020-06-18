@@ -1,0 +1,15 @@
+Date: 29/12/2018 20:52:12, User: joe, Method: /Accounts/Login, Message: Successfully logged in 
+Date: 29/12/2018 22:29:46, User: sasha, Method: /Accounts/Login, Message: Successfully logged in 
+Date: 29/12/2018 22:29:54, User: sasha, Method: /Accounts/Signout, Message: User Signed Out 
+Date: 29/12/2018 23:26:38, User: joe, Method: /Accounts/Login, Message: Successfully logged in 
+Date: 29/12/2018 23:26:41, User: joe, Method: /Accounts/Signout, Message: User Signed Out 
+Date: 29/12/2018 23:26:43, User: sasha, Method: /Accounts/Login, Message: Successfully logged in 
+Date: 29/12/2018 23:26:44, User: sasha, Method: /Tracks/Delete/1037, Message: Track Gorillaz was deleted 
+Date: 29/12/2018 23:26:53, User: sasha, Method: /Accounts/Signout, Message: User Signed Out 
+Date: 29/12/2018 23:27:40, User: joe, Method: /Accounts/Login, Message: Successfully logged in 
+Date: 29/12/2018 23:27:46, User: joe, Method: /Tracks/Create, Message: Track Tezt Was Successfully Added. 
+Date: 29/12/2018 23:27:48, User: joe, Method: /Tracks/Download/2035, Message: Downloaded Tezt 
+Date: 29/12/2018 23:32:02, User: joe, Method: /Accounts/Signout, Message: User Signed Out 
+Date: 29/12/2018 23:32:05, User: sasha, Method: /Accounts/Login, Message: Successfully logged in 
+Date: 29/12/2018 23:32:06, User: sasha, Method: /Tracks/Delete/2035, Message: Track Tezt was deleted 
+Date: 29/12/2018 23:32:08, User: sasha, Method: /Accounts/Signout, Message: User Signed Out 

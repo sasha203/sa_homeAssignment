@@ -1,0 +1,96 @@
+﻿﻿@model Common.Track
+
+@{
+    ViewBag.Title = "Details";
+ }
+
+<h2>Details</h2>
+<hr />
+<div>
+    <table class="table">
+
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.Title)
+            </td>
+
+        </tr>
+
+
+        <tr>
+            <th>
+                Genre
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.Genre.Title)
+            </td>
+
+
+        </tr>
+
+        <tr>
+            <th>
+                Uploaded By
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.User.Username)
+            </td>
+
+           
+        </tr>
+
+
+        <tr>
+            <th>
+                <!-- If no audio available don't show button.-->
+                @if (string.IsNullOrEmpty(Model.TrackUrl) == false)
+                {
+                    @Html.ActionLink("Download", "Download", new { id = Model.Id })
+                }
+            </th>
+
+  
+            <td>
+              
+            </td>
+
+        </tr>
+
+    </table>
+
+    <br /><br />
+          <div class="container jumbotron text-center">
+              <div class="row">
+                  <div class="col">
+                      <h4>Comments</h4><br />
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col">
+                      <h6>Username</h6>
+                  </div>
+                  <div class="col">
+                      <h6>Comment</h6>
+                  </div>
+              </div>
+
+              <div class="row">
+                  <div class="col">
+                      <!--users from db-->
+                  </div>
+                  <div class="col">
+                      <h6><!--Comments from db--></h6>
+                  </div>
+              </div>
+          </div>
+
+</div>
+<p>
+    @Html.ActionLink("Back to Index", "Index")
+</p>
